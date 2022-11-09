@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #212529;
+}
+
+#heaeder {
+    width: 1481.6px;
+    height: 584px;
+}
+
+.card {
+    height: 300px;
+}
+
+.text-mutedd {
+    background-color: rgb(12, 68, 253);
+    color: white;
+    border-radius: 20px;
+    padding: 8px;
+
+}
+
+#lastt {
+    margin: 30px;
+    padding: 0px;
+}
+
+#asidee {
+    margin: 50px;
+    padding: 0px;
+}
